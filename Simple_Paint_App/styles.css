@@ -1,0 +1,37 @@
+body{
+  background: #808080;
+}
+
+.header{
+  text-align: center;
+  color: #000000;
+}
+
+canvas{
+  padding:0;
+  margin:10px 0px 0px 150px;
+  height: 500px;
+  width: 1200px;
+  border: solid;
+  background: #ffffff;
+}
+.footer{
+  position: absolute;
+  top:600px;
+  left:720px;
+  margin-top:10px;
+}
+
+button{
+  font-size: 20px;
+  background: #ff9191;
+}
+
+.footer button:hover{
+  background: #f66b6b;
+  font-size: 22px;
+}
+
+canvas{
+  background: rgb(255, 255, 255);
+}
